@@ -65,10 +65,13 @@ body {
     color: #F0F1F5;
     font-size: 20px;
     font-weight: 100;
+    text-align: center;
+    margin-top: 10px;
 }
 
 .banner-btn {
     margin-top: 40px;
+    margin-bottom: 40px;
     overflow: hidden;
     font-size: 50px;
     border-radius: 5px;
